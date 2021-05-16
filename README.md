@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @YangChiYung
-- 👀 I’m interested in anything
 - 🌱 I’m currently learning kotlin
 <!---
 YangChiYung/YangChiYung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
